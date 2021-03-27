@@ -1,4 +1,4 @@
 # Just Luxury
 
-Theme for a Luxury Real Estate Company using CSS grids and flexbox.
+Theme for a Luxury Real Estate Company built using CSS Grids and Flexbox.
 
